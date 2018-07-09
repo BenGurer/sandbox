@@ -5,3 +5,5 @@
 # cleaning data
 # selecting data
 # basic statisical analysis
+
+data = np.genfromtxt('filename', delimiter=',')
